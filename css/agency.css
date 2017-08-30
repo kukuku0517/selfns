@@ -11,7 +11,7 @@ body {
   color: #777777;
 }
 .text-primary {
-  color: #fed136;
+  color: #6F95E5;
 }
 p {
   font-size: 14px;
@@ -218,7 +218,7 @@ fieldset[disabled] .btn-xl.active {
 }
 @media (min-width: 768px) {
   .navbar-custom.affix {
-    background-color: #222222;
+    background-color: #3B5999;
     padding: 10px 0;
   }
   .navbar-custom.affix .navbar-brand {
